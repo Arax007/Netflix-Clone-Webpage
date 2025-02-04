@@ -5,6 +5,6 @@
 ![image alt](https://github.com/Arax007/Netflix-Clone-Webpage/blob/73704fe08cf886a3eadea8990243b3283089e255/Screenshot%202025-02-04%20202319.png)
 ![image alt](https://github.com/Arax007/Netflix-Clone-Webpage/blob/73704fe08cf886a3eadea8990243b3283089e255/Screenshot%202025-02-04%20202327.png)
 ![image alt](https://github.com/Arax007/Netflix-Clone-Webpage/blob/73704fe08cf886a3eadea8990243b3283089e255/Screenshot%202025-02-04%20202340.png)
-![image alt](https://github.com/Arax007/Netflix-Clone-Webpage/blob/73704fe08cf886a3eadea8990243b3283089e255/Screenshot%202025-02-04%20202347.png)
+![image alt]([https://github.com/Arax007/Netflix-Clone-Webpage/blob/73704fe08cf886a3eadea8990243b3283089e255/Screenshot%202025-02-04%20202347.png](https://github.com/Arax007/Netflix-Clone-Webpage/blob/c777b4f60755b5dd1884f2427b678b487ae5639a/Screenshot%202025-02-04%20202347.png))
 ![image alt]
 ![image alt]
